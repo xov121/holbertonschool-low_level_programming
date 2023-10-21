@@ -1,14 +1,3 @@
-#include "main.h"
-
-/**
- *main - entry point
- *Return: Always 0 (Success)
- **/
-int main(void)
-{
-print_alphabet();
-return (0);
-}
 /**
  * print_alphabet - Prints alphabet in lowercase.
  * Description: This function uses a loop to go through each letter
