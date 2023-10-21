@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * print_alphabet - Prints alphabet in lowercase.
  * Description: This function uses a loop to go through each letter
