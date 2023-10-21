@@ -10,8 +10,8 @@ int i;
 for (i = 0; i < 10; i++)
 {
 char letter;
-for (letter = 'a'; letter <= 'z'; letter++)
-{_putchar(letter);
+for (letter = 'a'; letter <= 'z'; letter++)  
+_putchar(letter);
 }
 _putchar('\n');
 }
