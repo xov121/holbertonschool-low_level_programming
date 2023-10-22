@@ -1,1 +1,1 @@
-This repo contains the scripts for the C related projects
+This repo contains everything related to the C projects
