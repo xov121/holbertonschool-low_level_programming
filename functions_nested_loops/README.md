@@ -1,1 +1,1 @@
-not so empty readme
+This project is an exploration of C programming focusing on nested loops and functions. Each task contains a unique problem that requires solving through coding in C language. Tasks range from printing alphabets, numbers, and other specific sequences to more complex tasks such as mathematical operations and checks.
