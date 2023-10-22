@@ -11,7 +11,7 @@ $(NAME): $(OBJ)
 %.o: %.c
 	$(CC) -c $< -o $@
 clean:
-	$(RM) *~ *.swp
+	$(RM) *~ *.swp *#
 oclean:
 	$(RM) $(OBJ)
 fclean: clean oclean
