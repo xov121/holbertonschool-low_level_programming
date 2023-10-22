@@ -13,6 +13,8 @@ $(NAME): $(OBJ)
 	$(CC) $(CFLAGS) -c $< -o $@
 clean:
 	$(RM) *~ *.swp *# $(NAME)
+oclean:
+	$(RM) $(OBJ)
 fclean: clean oclean
 	$(RM) $(NAME)
 re: fclean all
