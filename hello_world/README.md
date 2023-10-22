@@ -1,1 +1,1 @@
-not so empty readme
+This project serves as an introduction to programming in the C language. It explores fundamental aspects of C, including compiling and running C programs, using different C standard library functions, and understanding the C compilation process.
