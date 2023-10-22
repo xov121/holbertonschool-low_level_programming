@@ -1,0 +1,1 @@
+This repo contains the scripts for the C related projects
