@@ -1,1 +1,1 @@
-not so empty readme
+This project focuses on understanding and implementing fundamental programming concepts in C, such as variables, conditional statements (if, else), and loops (while). 
