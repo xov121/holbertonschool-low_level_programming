@@ -5,7 +5,6 @@
 *new line 10 times
 *Return: nothing, void
 **/
-
 void more_numbers(void)
 {
 int a, b;
@@ -19,6 +18,6 @@ _putchar(b / 10 + '0');
 }
 _putchar(b % 10 + '0');
 }
-}
 _putchar('\n');
+}
 }
