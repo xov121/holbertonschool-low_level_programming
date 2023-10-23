@@ -1,4 +1,4 @@
-#include "main.h"
+j#include "main.h"
 
 /**
 * print_most_numbers - uses loop to print most numbers
@@ -14,9 +14,6 @@ if ((a != '2') && (a != '4'))
 {
 _putchar(a);
 }
-else
-{
+}
 _putchar('\n');
-}
-}
 }
