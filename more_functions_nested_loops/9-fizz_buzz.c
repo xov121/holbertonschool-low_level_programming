@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include "main.h"
-
+/**
+* main - entry point
+* @n: integer
+* return: 0 on success
+**/
 int main(void)
 {
 int n;
@@ -25,4 +29,5 @@ else
 printf("%i ", n);
 }
 printf("\n");
+return (0);
 }
