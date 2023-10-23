@@ -8,6 +8,6 @@
  **/
 int mul(int a, int b)
 {
-prod = a * b;
+int prod = a * b;
 return (prod);
 }
