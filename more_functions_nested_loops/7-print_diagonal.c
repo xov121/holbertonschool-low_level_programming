@@ -3,7 +3,7 @@
 /**
  * print_diagonal - prints \ diagonal in terminal
  * @n : integer value
- * Return: Always 0.
+ * Return: void
  */
 void print_diagonal(int n)
 {
