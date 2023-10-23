@@ -2,8 +2,7 @@
 #include "main.h"
 /**
 * main - entry point
-* @n: integer
-* return: 0 on success
+* Return: Always 0 (success)
 **/
 int main(void)
 {
@@ -31,7 +30,6 @@ if (n < 100)
 printf(" ");
 }
 }
-
 printf("\n");
 return (0);
 }
