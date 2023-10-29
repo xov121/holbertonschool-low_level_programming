@@ -16,5 +16,5 @@ s[i] = s[i] - 'a' + 'A';
 }
 i++;
 }
-return s;
+return (s);
 }
