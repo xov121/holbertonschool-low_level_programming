@@ -29,7 +29,7 @@ return (NULL);
 }
 for (i = 0; i <= len; i++)
 {
-dup[i] = len[i];
+dup[i] = str[i];
 }
 return (dup);
 }
