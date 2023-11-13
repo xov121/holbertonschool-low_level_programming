@@ -25,5 +25,5 @@ for (i = 0; i < total_size; i++)
 {
 memory[i] = 0;
 }
-    return (memory);
+return (memory);
 }
