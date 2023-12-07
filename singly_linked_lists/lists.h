@@ -4,7 +4,7 @@
 #include <stddef.h>
 
 /**
- * struct lists_s - singly linked list.
+ * struct list_s - singly linked list.
  * @str: string - (nalloc'ed string).
  * @len: lenght of the string.
  * @next: points to the next node.
