@@ -23,6 +23,6 @@ void print_binary(unsigned long int n)
 		if (!leading_zero)
 		_putchar((n & mask) ? '1' : '0');
 
-		mask >> 1;
+		mask >>= 1;
 	}
 }
