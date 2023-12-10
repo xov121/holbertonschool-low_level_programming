@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
 	{
 		w = write(to_fd, buffer, r);
 		if (w != r)
-		print_error(" Error: Can't write to ", argv[2], 99);
+		print_error("Error: Can't write to ", argv[2], 99);
 	}
 	if (r < 0)
 	print_error("Error: Can't read from file ", argv[1], 98);
