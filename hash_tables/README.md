@@ -1,0 +1,1 @@
+(8) A seven foot frame, rats along his back, when he calls your name it all fades to black.. (8)
