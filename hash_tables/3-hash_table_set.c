@@ -18,7 +18,7 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 
 	index = key_index((const unsigned char *)key, ht->size);
 
-	if (update_value(ht, hey, value, index))
+	if (update_value(ht, key, value, index))
 	return (1);
 
 	new_node = create_new_node(key, value);
@@ -78,7 +78,7 @@ int update_value(hash_table_t *ht, const char *key,
 		{
 			free(node->value);
 			node->value = strdup(value);
-			return (-1);
+			return (1);
 		}
 	}
 	return (0);
